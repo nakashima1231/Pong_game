@@ -13,12 +13,12 @@ Este projeto foi totalmente voltado para praticar a linguagem C e a biblioteca R
 
 O objetivo do jogo é rebater a bola para a parede do lado inimigo.
 
-| **Raquete Esquerda (P1)** 
-|  |`W` | Mover para cima |
-|  | `S` | Mover para baixo |
-| **Raquete Direita (P2)**
-|  |`O` | Mover para cima |
-|  | `L` | Mover para baixo |
+|Raquete esquerda  | Raquete Direita |
+|--|--|
+| W | O |
+| S | L | 
+
+
 
 ## 🛠️ Como Compilar e Rodar
  ### Pré-requisitos Para compilar este jogo, você precisará: 
