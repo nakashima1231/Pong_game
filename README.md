@@ -40,6 +40,5 @@ Este projeto está licenciado sob a Licença **MIT**. Veja o arquivo LICENSE par
 
 ## Autor
 Gabriel Makiyama Nakashima  
-Github: [nakashima1231](https://github.com/nakashima1231)   
-Email para contato: gabrielmnakashima2@gmail.com  
-Muito obrigado por ler até aqui. :)
+gabrielmnakashima2@gmail.com  
+![](https://media.tenor.com/0pZkpZFmXEgAAAAM/uma-musume.gif)
